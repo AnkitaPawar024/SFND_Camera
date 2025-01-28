@@ -1,3 +1,0 @@
-/home/ankita/Documents/SFND_Camera/Lesson 4 - Tracking Image Features/Overview of Popular Keypoint Detectors/detect_keypoints/build/CMakeFiles/detect_keypoints.dir
-/home/ankita/Documents/SFND_Camera/Lesson 4 - Tracking Image Features/Overview of Popular Keypoint Detectors/detect_keypoints/build/CMakeFiles/edit_cache.dir
-/home/ankita/Documents/SFND_Camera/Lesson 4 - Tracking Image Features/Overview of Popular Keypoint Detectors/detect_keypoints/build/CMakeFiles/rebuild_cache.dir

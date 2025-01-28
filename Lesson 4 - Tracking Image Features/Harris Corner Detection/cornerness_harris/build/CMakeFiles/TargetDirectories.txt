@@ -1,3 +1,0 @@
-/home/ankita/Documents/Project_SensorFusion/SFND_Camera/Lesson 4 - Tracking Image Features/Harris Corner Detection/cornerness_harris/build/CMakeFiles/cornerness_harris.dir
-/home/ankita/Documents/Project_SensorFusion/SFND_Camera/Lesson 4 - Tracking Image Features/Harris Corner Detection/cornerness_harris/build/CMakeFiles/edit_cache.dir
-/home/ankita/Documents/Project_SensorFusion/SFND_Camera/Lesson 4 - Tracking Image Features/Harris Corner Detection/cornerness_harris/build/CMakeFiles/rebuild_cache.dir
