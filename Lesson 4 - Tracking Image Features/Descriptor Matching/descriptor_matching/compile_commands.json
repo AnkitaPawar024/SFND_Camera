@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/ankita/Documents/SFND_Camera/Lesson 4 - Tracking Image Features/Descriptor Matching/descriptor_matching",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4   -std=c++14 -o CMakeFiles/descriptor_matching.dir/src/descriptor_matching.cpp.o -c \"/home/ankita/Documents/SFND_Camera/Lesson 4 - Tracking Image Features/Descriptor Matching/descriptor_matching/src/descriptor_matching.cpp\"",
+  "file": "/home/ankita/Documents/SFND_Camera/Lesson 4 - Tracking Image Features/Descriptor Matching/descriptor_matching/src/descriptor_matching.cpp",
+  "output": "CMakeFiles/descriptor_matching.dir/src/descriptor_matching.cpp.o"
+},
+{
+  "directory": "/home/ankita/Documents/SFND_Camera/Lesson 4 - Tracking Image Features/Descriptor Matching/descriptor_matching",
+  "command": "/usr/bin/c++  -isystem /usr/include/opencv4   -std=c++14 -o CMakeFiles/descriptor_matching.dir/src/structIO.cpp.o -c \"/home/ankita/Documents/SFND_Camera/Lesson 4 - Tracking Image Features/Descriptor Matching/descriptor_matching/src/structIO.cpp\"",
+  "file": "/home/ankita/Documents/SFND_Camera/Lesson 4 - Tracking Image Features/Descriptor Matching/descriptor_matching/src/structIO.cpp",
+  "output": "CMakeFiles/descriptor_matching.dir/src/structIO.cpp.o"
+}
+]

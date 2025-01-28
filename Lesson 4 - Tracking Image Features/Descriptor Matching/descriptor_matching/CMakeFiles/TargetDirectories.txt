@@ -1,0 +1,3 @@
+/home/ankita/Documents/SFND_Camera/Lesson 4 - Tracking Image Features/Descriptor Matching/descriptor_matching/CMakeFiles/descriptor_matching.dir
+/home/ankita/Documents/SFND_Camera/Lesson 4 - Tracking Image Features/Descriptor Matching/descriptor_matching/CMakeFiles/edit_cache.dir
+/home/ankita/Documents/SFND_Camera/Lesson 4 - Tracking Image Features/Descriptor Matching/descriptor_matching/CMakeFiles/rebuild_cache.dir
